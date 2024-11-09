@@ -20,7 +20,7 @@ module.exports = {
   				foreground: 'hsl(var(--popover-foreground))'
   			},
   			primary: {
-  				DEFAULT: "#4845D2",
+  				DEFAULT: '#4299e1',
   				foreground: 'hsl(var(--primary-foreground))'
   			},
   			secondary: {
@@ -48,7 +48,9 @@ module.exports = {
   				'3': 'hsl(var(--chart-3))',
   				'4': 'hsl(var(--chart-4))',
   				'5': 'hsl(var(--chart-5))'
-  			}
+  			},
+			  customBlue: '#00A6C2'
+			
   		},
   		borderRadius: {
   			lg: 'var(--radius)',
